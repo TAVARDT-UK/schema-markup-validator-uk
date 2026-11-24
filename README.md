@@ -1,4 +1,4 @@
-# Schema Markup and Structured Data Validator | TAVARDT UK
+# Schema Markup and Structured Data Validator
 
 [![Schema Validator](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/uk/schema-markup-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For interactive testing and recurring semantic verification:
 ## Semantic Web and Structured Architecture Advisory
 
 For enterprise entity modeling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
