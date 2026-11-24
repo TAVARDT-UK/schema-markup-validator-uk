@@ -2,6 +2,7 @@
 
 [![Schema Validator](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/uk/schema-markup-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Technical validation tool for Schema.org structured data, inspecting JSON-LD and Microdata entities, required attributes, and rich snippets readiness.
 
@@ -12,7 +13,7 @@ Engineered and maintained by the semantic web and technical search engineering p
 ## Semantic Validation Capabilities
 
 * **Structured Data Extraction**: Automated parsing of embedded JSON-LD blocks (`application/ld+json`) and inline Microdata markup.
-* **Schema.org Entity Auditing**: Comprehensive recognition of core entities including Organization, LocalBusiness, WebSite, Article, Product, FAQPage, and BreadcrumbList.
+* **Schema.org Entity Auditing**: Comprehensive recognition of core entities including Organisation, LocalBusiness, WebSite, Article, Product, FAQPage, and BreadcrumbList.
 * **Syntax and Schema Integrity Checks**: Detection of malformed JSON strings, missing required attributes, and broken semantic linkages.
 * **Semantic Quality Benchmark**: Objective 0 to 100 rating accompanied by prioritized guidance for rich snippets eligibility.
 
@@ -47,7 +48,21 @@ For interactive testing and recurring semantic verification:
 
 ## Semantic Web and Structured Architecture Advisory
 
-For enterprise entity modeling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **TAVARDT**.
+For enterprise entity modelling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **TAVARDT**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
