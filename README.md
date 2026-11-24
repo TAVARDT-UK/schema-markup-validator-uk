@@ -1,14 +1,13 @@
 # Schema Markup and Structured Data Validator | TAVARDT UK
 
 [![Schema Validator](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/uk/schema-markup-validator/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Technical validation tool for Schema.org structured data, inspecting JSON-LD and Microdata entities, required attributes, and rich snippets readiness.
 
-Engineered and maintained by the semantic web and technical search engineering practice at **[TAVARDT UK](https://ag.tavardt.com/uk/)**.
+Engineered and maintained by the semantic web and technical search engineering practice at **TAVARDT UK**.
 
----
+***
 
 ## Semantic Validation Capabilities
 
@@ -17,7 +16,7 @@ Engineered and maintained by the semantic web and technical search engineering p
 * **Syntax and Schema Integrity Checks**: Detection of malformed JSON strings, missing required attributes, and broken semantic linkages.
 * **Semantic Quality Benchmark**: Objective 0 to 100 rating accompanied by prioritized guidance for rich snippets eligibility.
 
----
+***
 
 ## Installation and Execution
 
@@ -32,20 +31,20 @@ python schema_validator.py example.co.uk
 To output machine-readable JSON:
 
 ```bash
-python schema_validator.py example.co.uk --json
+python schema_validator.py example.co.uk -json
 ```
 
----
+***
 
 ## Online Validation Suite
 
 For interactive testing and recurring semantic verification:
 
-* **[Official Schema Markup Validator](https://tools.tavardt.com/uk/schema-markup-validator/)**
-* **[TAVARDT UK Corporate Portal](https://ag.tavardt.com/uk/)**
+* **Official Schema Markup Validator**
+* **TAVARDT UK Corporate Portal**
 
----
+***
 
 ## Semantic Web and Structured Architecture Advisory
 
-For enterprise entity modeling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **[TAVARDT UK](https://ag.tavardt.com/uk/contact/)**.
+For enterprise entity modeling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **TAVARDT UK**.
