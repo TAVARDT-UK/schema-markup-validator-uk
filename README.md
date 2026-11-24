@@ -5,7 +5,7 @@
 
 Technical validation tool for Schema.org structured data, inspecting JSON-LD and Microdata entities, required attributes, and rich snippets readiness.
 
-Engineered and maintained by the semantic web and technical search engineering practice at **TAVARDT UK**.
+Engineered and maintained by the semantic web and technical search engineering practice at **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python schema_validator.py example.co.uk -json
 For interactive testing and recurring semantic verification:
 
 * **Official Schema Markup Validator**
-* **TAVARDT UK Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Semantic Web and Structured Architecture Advisory
 
-For enterprise entity modeling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **TAVARDT UK**.
+For enterprise entity modeling, schema implementation, and alignment with W3C Semantic Standards and Search Best Practices, contact the technical specialists at **TAVARDT**.
 
 ***
 
