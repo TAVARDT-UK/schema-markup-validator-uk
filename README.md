@@ -60,6 +60,8 @@ For enterprise entity modelling, schema implementation, and alignment with W3C S
 
 ***
 
+***
+
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
